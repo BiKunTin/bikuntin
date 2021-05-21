@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on "Making Web and IOS App"
 - 🌱 I’m currently learning "Machine Learning and IOS App"
 - 👯 Area of interest: Machine Learning, Algorithm, Mobile App, Data Science.
-- 😄 Find more information about me at: [Linkedin Profile](https://linkedin.com/in/cuongtcu) or [Personal Website](https://cmnguyen.me)
+- 😄 Find more information about me at: [Linkedin Profile](https://linkedin.com/in/cuongtcu) or [Portfolio](https://cmnguyen.me)
 - 📫 How to reach me: email me at cuong.hsgs@gmail.com or c.m.nguyen@tcu.edu call/text me: (469) - 468 -7595
 - ⚡ Fun fact: I love playing video games, reading historical stories, swimming, and playing board games.
 
