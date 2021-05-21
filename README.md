@@ -1,7 +1,7 @@
 ### Hi there 👋, **I'm Cuong Nguyen, but you can call me Kelvin Nguyen. I'm an aspiring Software Engineering and IT Consultant.**
 
 
-- 🔭 I’m currently working on "Making Web and IOS App"
+- 🔭 I’m currently working on "Web and IOS App build"
 - 🌱 I’m currently learning "Machine Learning and IOS App"
 - 👯 Area of interest: Machine Learning, Algorithm, Mobile App, Data Science.
 - 😄 Find more information about me at: [Linkedin Profile](https://linkedin.com/in/cuongtcu) or [Portfolio](https://cmnguyen.me)
