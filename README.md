@@ -1,4 +1,4 @@
-### Hi there 👋, **I'm Cuong Nguyen, but you can call me as Kelvin Nguyen. I'm an aspiring Software Engineering and IT Consultant.**
+### Hi there 👋, **I'm Cuong Nguyen, but you can call me Kelvin Nguyen. I'm an aspiring Software Engineering and IT Consultant.**
 
 
 - 🔭 I’m currently working on "Making Web and IOS App"
